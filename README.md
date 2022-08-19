@@ -1,5 +1,5 @@
 ### Olá! Eu sou a Larissa Souza!
-### Seja muito bem vindo(a)! 
+### Seja bem vindo(a)! 
 
 💻 Estudante de banco de dados
 
